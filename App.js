@@ -5,7 +5,7 @@ import AppNavigator from './navigation/AppNavigator';
 import firebase from 'firebase';
 
   var config = {
-    apiKey: "AIzaSyDqaBkkVUBXjkELStV4dfAT4aGuBj6sIg0",
+    apiKey: "xxxxxx",
     authDomain: "pichat-d9295.firebaseapp.com",
     databaseURL: "https://pichat-d9295.firebaseio.com",
     projectId: "pichat-d9295",
